@@ -1,5 +1,5 @@
 Instrucciones para Usar la Aplicación
-
+SE DEBEN DESCARGAR TODOS LOS DOCUMENTOS EN ESTE REPOSITORIO
 
 Iniciar el Código:
 El documento a iniciar es "Program.cs"
